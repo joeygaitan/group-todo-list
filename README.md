@@ -15,7 +15,7 @@
 
 * a todo list can have many tasks
 
-### stretch challenge
+### stretch challenges
 
 #### todo list
 
