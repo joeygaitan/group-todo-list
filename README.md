@@ -1,4 +1,4 @@
-# Group Todo list application
+# Group Todo list API
 
 ## user routes
 
@@ -14,5 +14,12 @@
 ## todo routes
 
 * a todo list can have many tasks
-* a todo list can have many calendar events (stretch challenge)
+
+### stretch challenge
+
+#### todo list
+
+* a todo list can hav many files
+* a group todo list can have many folders
+* a todo list can have many calendar events 
 
