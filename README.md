@@ -1,5 +1,10 @@
 # Group Todo list API
 
+## Purpose of The Application
+
+* This app is meant to save your personal or group todo tasks to one location. It uses authentication allowing you to have your own personal todo tasks and to be associated with projects one user can make. The project allows  
+
+
 ## user routes
 
 * a user can have many projects
@@ -22,4 +27,5 @@
 * a todo list can hav many files
 * a group todo list can have many folders
 * a todo list can have many calendar events 
+* Make Chrome extension
 
